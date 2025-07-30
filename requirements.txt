@@ -1,0 +1,10 @@
+streamlit
+pandas
+plotly-express
+google-cloud-storage
+gcsfs
+google-auth
+google-cloud-aiplatform
+vertexai
+plotly
+sift-stack-py
